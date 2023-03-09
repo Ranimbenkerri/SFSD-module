@@ -1,5 +1,5 @@
 # SFSD-module
-( Structure Files and Data Structures )
+( Structure Files and Data Structures. )
 
 A repository That Contains Algorithems about how to manage data in a various data structures using Blocs, indexes table , and Hashage.
 Algorithemes in This Repo
